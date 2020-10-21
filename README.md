@@ -1,7 +1,6 @@
 # PwC-Case-Study-Challenge-2020
 
-### The purpose of this RFP is to solicit consulting services for a hypothetical company Cure& Pharma Inc. to help the company launch 
-### its new vaccine program across the globe.
+### The purpose of this RFP is to solicit consulting services for a hypothetical company Cure& Pharma Inc. to help the company launch its new vaccine program across the globe.
 
 ## Summary of Deliverables:
 
